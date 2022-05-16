@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SimplyExo
-- 🧬 I'm developing in Java and SQL
-- 🎓 I’m currently learning Flutter & Dart
-- ✨ I'm developing since 2021
+- 🧬 I'm developing in Java and SQL, Flutter & Dart
+- 🎓 I'm currently learning Rust 
+- ✍️ I enjoy writing my own blogs
+- ✨ I'm developing since 2020
 - ⚡ Reach me on:
 
       Discord: Simply#9422
